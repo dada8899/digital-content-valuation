@@ -2,49 +2,71 @@
 
 ## 这是什么？
 
-探索将抖音内部的 eCPM 估值能力外化，建立一个**短视频内容交易市场**的可行性。让创作者的归档闲置内容可以被商家购买、授权使用，降低广告素材的获取成本和不确定性。
+探索将抖音内部的 eCPM 估值能力外化，建立一个**短视频内容交易市场**的可行性研究。经过 3 轮深度研究（10 位专家 + 2 位顾问 + 22 篇研究文档），项目结论发生了重大转向。
 
-## 核心发现
+## 战略转向（Round 3 结论）
 
-经过 10 位专家深度研究，项目的关键共识是：
+6 条独立证据链从不同角度指向同一结论：**"内容交易市场"定位需要修正为"效果洞察工具"。**
 
-| 发现 | 详情 |
+| 证据 | 结论 |
 |------|------|
-| **生死问题** | 素材跨账户跑量效果能否迁移（H4），成功概率 30-45% |
-| **致命风险** | 抖音去重机制可能把授权素材标记为"搬运"并限流 |
-| **正确定位** | 这是一个**工具**，不是平台 |
-| **市场规模** | 自下而上估算稳态 GMV 20-50 亿（非 77 亿） |
-| **AI 窗口** | 比预测快 2 年，Phase 2 必须从 Day 1 建设 |
-| **现状** | 70 篇论文 vs 0 笔真实交易，理论过剩、验证空白 |
+| **灰色市场穿透** | 合规溢价仅 90 元/条，远低于 500-2000 元定价，理性商家必选灰色 |
+| **经济可持续性** | 盈亏平衡需 18-30 个月，但 AI 窗口仅 12-18 个月，数学上跑不赢 |
+| **字节竞争** | 千意/即创日产百万素材，正在从根本上消解"素材稀缺"前提 |
+| **跨账户衰减** | 冷启动期衰减 60-75%，稳定期 20-33%，比预期严重 |
+| **历史类比** | 逐件交易模式（Ocean Tomo 拍卖）已失败，需转订阅/捆绑 |
+| **用户旅程** | 应嵌入千川生态做插件，不做独立平台 |
 
-## 当前阶段
+## 修订路线图
 
-**执行阶段：4 周手动撮合验证 H4**
+| 阶段 | 定位 | 成功概率 |
+|------|------|---------|
+| **Phase 1（0-6月）** | 效果洞察工具 — SaaS 订阅 | 60-70% |
+| **Phase 2（6-18月）** | 效果预测引擎 — 数据壁垒 | 40-50% |
+| **Phase 3（18月+）** | 内容交易市场 — 条件触发 | 20-30% |
 
-- Week 1：准备（创作者招募 + 商家招募）
-- Week 2：首批撮合（目标 20 单）
-- Week 3：投放验证（数据采集）
-- Week 4：分析决策（Go / No-Go）
+**全链路成功概率：10-15% | "不亏钱"概率：30-35%**
+
+## 研究演进
+
+```
+Round 1（10篇）→ 发现问题、形成假设
+     ↓
+执行方案（8篇）→ 落地计划、实验设计
+     ↓
+Round 2（6篇）→ 穿透研究、证伪/修正假设
+     ↓
+战略修订报告  → 定位转向、路线图重构
+```
 
 ## 文档导航
 
-### 核心文档
-- [最终项目方案](final_project_plan.md) — 10 位专家汇总的项目计划
-- [多智能体分析报告](multi_agent_analysis_report.md) — 完整的专家分析记录
+### 核心文档（先看这里）
+- [Round 3 战略修订报告](round3_synthesis.md) — **最新结论**，6 篇穿透研究汇总
+- [最终项目方案](final_project_plan.md) — Round 1 汇总（部分结论已被 Round 3 修正）
+- [多智能体分析报告](multi_agent_analysis_report.md) — 完整的专家讨论记录
 
-### 深度研究（先想明白）
-- [第一性原理分析](research/01_first_principles_analysis.md) — 研究员
-- [用户深层认知](research/02_user_deep_understanding.md) — 产品经理
-- [市场经济学](research/03_market_economics_deep_dive.md) — 经济学家
-- [算法深度研究](research/04_algorithm_deep_research.md) — 算法专家
-- [内容本质研究](research/05_content_nature_research.md) — 内容运营
-- [投放实战研究](research/06_media_buying_deep_research.md) — 千川投手
-- [AI 能力边界](research/07_ai_capability_boundary.md) — AI 专家
-- [技术可行性](research/08_technical_feasibility_deep.md) — 工程师
-- [商业现实](research/09_commercial_reality_research.md) — 商业化销售
-- [关键问题地图](research/10_critical_questions_map.md) — 项目负责人
+### 深度研究 Round 1（基础研究）
+- [01 第一性原理分析](research/01_first_principles_analysis.md) — 研究员
+- [02 用户深层认知](research/02_user_deep_understanding.md) — 产品经理
+- [03 市场经济学](research/03_market_economics_deep_dive.md) — 经济学家
+- [04 算法深度研究](research/04_algorithm_deep_research.md) — 算法专家
+- [05 内容本质研究](research/05_content_nature_research.md) — 内容运营
+- [06 投放实战研究](research/06_media_buying_deep_research.md) — 千川投手
+- [07 AI 能力边界](research/07_ai_capability_boundary.md) — AI 专家
+- [08 技术可行性](research/08_technical_feasibility_deep.md) — 工程师
+- [09 商业现实](research/09_commercial_reality_research.md) — 商业化销售
+- [10 关键问题地图](research/10_critical_questions_map.md) — 项目负责人
 
-### 执行方案（直接落地）
+### 深度研究 Round 2（穿透验证）
+- [11 历史类比穿透](research/11_historical_analogy_deep_dive.md) — RPX 模型才是正确参照
+- [12 跑量归因深度拆解](research/12_content_transferability_deep_analysis.md) — 内容贡献 25-45%，同品类可迁移
+- [13 市场可持续性证明](research/13_market_sustainability_proof.md) — 失败概率 45-55%
+- [14 用户旅程穿透](research/14_user_journey_deep_analysis.md) — 嵌入千川，做工具不做平台
+- [15 千川素材机制穿透](research/15_qianchuan_mechanism_deep_dive.md) — 字节已在自建，窗口紧迫
+- [16 灰色市场穿透](research/16_grey_market_deep_analysis.md) — 合规溢价仅 90 元，经济上打不赢
+
+### 执行方案（基于 Round 1，待根据 Round 3 修订）
 - [4 周作战计划](execution/00_battle_plan.md) — 项目负责人
 - [H4 实验设计](execution/01_h4_experiment_design.md) — 算法专家
 - [撮合 SOP](execution/02_matchmaking_sop.md) — 产品经理
