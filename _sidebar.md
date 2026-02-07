@@ -4,7 +4,7 @@
   - [最终项目方案](final_project_plan.md)
   - [多智能体分析报告](multi_agent_analysis_report.md)
 
-- **深度研究**
+- **深度研究 Round 1**
   - [01 第一性原理分析](research/01_first_principles_analysis.md)
   - [02 用户深层认知](research/02_user_deep_understanding.md)
   - [03 市场经济学](research/03_market_economics_deep_dive.md)
@@ -15,6 +15,14 @@
   - [08 技术可行性](research/08_technical_feasibility_deep.md)
   - [09 商业现实](research/09_commercial_reality_research.md)
   - [10 关键问题地图](research/10_critical_questions_map.md)
+
+- **深度研究 Round 2（穿透）**
+  - [11 历史类比穿透](research/11_historical_analogy_deep_dive.md)
+  - [12 跑量归因深度拆解](research/12_content_transferability_deep_analysis.md)
+  - [13 市场可持续性证明](research/13_market_sustainability_proof.md)
+  - [14 用户旅程穿透](research/14_user_journey_deep_analysis.md)
+  - [15 千川素材机制穿透](research/15_qianchuan_mechanism_deep_dive.md)
+  - [16 灰色市场穿透](research/16_grey_market_deep_analysis.md)
 
 - **执行方案**
   - [00 四周作战计划](execution/00_battle_plan.md)
