@@ -2,6 +2,7 @@
 
 - **核心文档**
   - [最终项目方案](final_project_plan.md)
+  - [Round 3 战略修订报告](round3_synthesis.md)
   - [多智能体分析报告](multi_agent_analysis_report.md)
 
 - **深度研究 Round 1**
